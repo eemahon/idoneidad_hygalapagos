@@ -1,0 +1,16 @@
+FROM,TO,OUT
+Arbustal Decíduo,Arbustal Decíduo,2
+Agua,Agua,3
+Area Agrícola,Area Agrícola,5
+Area Urbana,Area Urbana,5
+Bosque Decíduo,Bosque Decíduo,1
+Bosque Siempreverde Estacional,Bosque Siempreverde Estacional,1
+Bosque y Arbustal Humedo de Playas,Bosque y Arbustal Humedo de Playas,1
+Bosque y Arbustal Siempreverde,Bosque y Arbustal Siempreverde,1
+Especies Invasoras,Especies Invasoras,4
+Herbazal Decíduo,Herbazal Decíduo,3
+Lava Antigua,Lava Antigua,5
+Herbazal Decíduo de Altura,Herbazal Decíduo de Altura,1
+Herbazal Húmedo,Herbazal Húmedo,0
+Lava Reciente,Lava Reciente,1
+Manglar,Manglar,0
