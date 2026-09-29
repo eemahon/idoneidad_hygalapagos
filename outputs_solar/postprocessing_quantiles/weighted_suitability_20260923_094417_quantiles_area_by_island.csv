@@ -1,0 +1,5 @@
+island,energy_type,classification,area_ha_last_class,energy_potential_mw
+Isabela,solar,quantiles,22379.5568298401,17215.043715261614
+Floreana,solar,quantiles,6921.325105072289,5324.096234670991
+Santa Cruz,solar,quantiles,23563.917064018944,18126.09004924534
+San Cristobal,solar,quantiles,20923.602341156795,16095.078723966764
