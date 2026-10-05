@@ -1,0 +1,5 @@
+island,energy_type,classification,area_ha_last_class,energy_potential_mw
+Isabela,eolic,quantiles,50286.032956512056,55873.36995168006
+Floreana,eolic,quantiles,33.48552629967489,37.2061403329721
+Santa Cruz,eolic,quantiles,5979.830065902169,6644.255628780187
+San Cristobal,eolic,quantiles,17748.1851028524,19720.205669836

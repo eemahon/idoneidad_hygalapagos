@@ -1,0 +1,5 @@
+island,energy_type,classification,area_ha_last_class,energy_potential_mw
+Isabela,solar,natural_jenks,1302.2254815802544,1001.711908907888
+Floreana,solar,natural_jenks,468.1314628428981,360.10112526376776
+Santa Cruz,solar,natural_jenks,9979.352742655667,7676.425186658204
+San Cristobal,solar,natural_jenks,8785.479574868963,6758.061211437664
