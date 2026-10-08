@@ -1,2 +1,10 @@
 data/
 *.gpkg
+*.tif
+*.shp
+*.dbf
+*.prj
+*.cpg
+*.qpj
+*.shx
+*.csv
