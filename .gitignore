@@ -9,3 +9,4 @@ data/
 *.shx
 *.csv
 inputs/
+*.zip
