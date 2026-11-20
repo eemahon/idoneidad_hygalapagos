@@ -11,3 +11,5 @@ data/
 inputs/
 *.zip
 *.tif.aux.xml
+outputs_solar/figures
+outputs_eolico/figures
